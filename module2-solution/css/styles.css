@@ -9,6 +9,16 @@ h1 {
 	text-align: center;
 }
 #col1 {
+<<<<<<< HEAD
+ 	background-color: #B0171F;
+ }
+ #col2 {
+ 	background-color: #EEEE00;
+ }
+ #col3 {
+ 	background-color: #8E8E38;
+ }
+=======
 	background-color: #B0171F;
 }
 #col2 {
@@ -17,6 +27,7 @@ h1 {
 #col3 {
 	background-color: #8E8E38;
 }
+>>>>>>> 87398e41517d857d0199b826065739d6cf912ea8
 #div1 {
 	background-color: #CAE1FF;
 	border: 1px solid black;
